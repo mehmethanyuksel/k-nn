@@ -1,0 +1,9 @@
+c:\users\mehmethan\documents\visual studio 2012\Projects\k-nn\k-nn\bin\Debug\k-nn.exe.config
+c:\users\mehmethan\documents\visual studio 2012\Projects\k-nn\k-nn\bin\Debug\k-nn.exe
+c:\users\mehmethan\documents\visual studio 2012\Projects\k-nn\k-nn\bin\Debug\k-nn.pdb
+c:\users\mehmethan\documents\visual studio 2012\Projects\k-nn\k-nn\obj\Debug\k-nn.csprojResolveAssemblyReference.cache
+c:\users\mehmethan\documents\visual studio 2012\Projects\k-nn\k-nn\obj\Debug\k_nn.Form1.resources
+c:\users\mehmethan\documents\visual studio 2012\Projects\k-nn\k-nn\obj\Debug\k_nn.Properties.Resources.resources
+c:\users\mehmethan\documents\visual studio 2012\Projects\k-nn\k-nn\obj\Debug\k-nn.csproj.GenerateResource.Cache
+c:\users\mehmethan\documents\visual studio 2012\Projects\k-nn\k-nn\obj\Debug\k-nn.exe
+c:\users\mehmethan\documents\visual studio 2012\Projects\k-nn\k-nn\obj\Debug\k-nn.pdb
